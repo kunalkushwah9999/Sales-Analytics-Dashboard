@@ -1,0 +1,7 @@
+pandas>=2.1
+numpy>=1.26
+SQLAlchemy>=2.0
+PyMySQL>=1.1
+python-dotenv>=1.0
+matplotlib>=3.8
+pytest>=8.0

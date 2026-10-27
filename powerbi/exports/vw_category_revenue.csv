@@ -1,0 +1,9 @@
+category,orders,revenue,revenue_share_pct,cumulative_share_pct,category_rank
+Electronics,6729,109309033.43,27.02,27.02,1
+Home & Kitchen,14120,71660817.31,17.71,44.73,2
+Furniture,5104,61446160.6,15.19,59.92,3
+Fashion,18457,57688751.61,14.26,74.18,4
+Sports,12001,44714162.54,11.05,85.24,5
+Beauty,13380,23866427.18,5.9,91.14,6
+Toys,15893,23777061.21,5.88,97.01,7
+Books,18601,12078576.96,2.99,100.0,8

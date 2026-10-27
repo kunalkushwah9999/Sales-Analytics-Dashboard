@@ -1,0 +1,65 @@
+product_id,product_name,category,list_price
+P001,Smartphone,Electronics,33170.01
+P002,Laptop,Electronics,5100.37
+P003,Bluetooth Headphones,Electronics,15685.13
+P004,Smart Watch,Electronics,22809.56
+P005,Tablet,Electronics,3507.3
+P006,Wireless Speaker,Electronics,10785.97
+P007,Power Bank,Electronics,2411.82
+P008,Gaming Console,Electronics,7417.04
+P009,Office Chair,Furniture,7187.34
+P010,Study Desk,Furniture,17043.86
+P011,Bookshelf,Furniture,4041.74
+P012,Sofa Set,Furniture,9584.47
+P013,Queen Bed,Furniture,12781.09
+P014,Dining Table,Furniture,30308.75
+P015,Wardrobe,Furniture,22728.36
+P016,TV Unit,Furniture,5389.74
+P017,Mixer Grinder,Home & Kitchen,907.32
+P018,Air Fryer,Home & Kitchen,4444.93
+P019,Pressure Cooker,Home & Kitchen,1349.85
+P020,Dinner Set,Home & Kitchen,2987.71
+P021,Vacuum Cleaner,Home & Kitchen,6612.9
+P022,Water Purifier,Home & Kitchen,9838.25
+P023,Induction Cooktop,Home & Kitchen,609.86
+P024,Bedsheet Set,Home & Kitchen,2008.23
+P025,Denim Jeans,Fashion,473.77
+P026,Cotton Shirt,Fashion,664.63
+P027,Running Shoes,Fashion,2574.08
+P028,Kurta Set,Fashion,3611.06
+P029,Leather Wallet,Fashion,5065.77
+P030,Handbag,Fashion,932.37
+P031,Winter Jacket,Fashion,1307.98
+P032,Sunglasses,Fashion,1834.9
+P033,Cricket Bat,Sports,1233.79
+P034,Yoga Mat,Sports,2541.33
+P035,Dumbbell Set,Sports,599.0
+P036,Badminton Racket,Sports,3647.29
+P037,Football,Sports,1770.73
+P038,Cycling Helmet,Sports,859.67
+P039,Treadmill Belt,Sports,7512.56
+P040,Resistance Bands,Sports,5234.54
+P041,Face Serum,Beauty,1037.8
+P042,Sunscreen SPF50,Beauty,1475.17
+P043,Perfume,Beauty,730.1
+P044,Hair Dryer,Beauty,2096.88
+P045,Lipstick Set,Beauty,254.21
+P046,Moisturizer,Beauty,361.34
+P047,Trimmer,Beauty,513.63
+P048,Shampoo Combo,Beauty,178.84
+P049,Data Science Handbook,Books,289.75
+P050,Python Crash Course,Books,175.09
+P051,Fiction Bestseller,Books,793.51
+P052,Self-Help Classic,Books,479.5
+P053,SQL Mastery,Books,225.24
+P054,UPSC Guide,Books,616.83
+P055,Kids Story Set,Books,372.74
+P056,Biography Collection,Books,136.1
+P057,Lego Style Blocks,Toys,828.02
+P058,RC Car,Toys,321.14
+P059,Board Game,Toys,2134.93
+P060,Puzzle 1000pc,Toys,1556.93
+P061,Doll House,Toys,234.2
+P062,Art Kit,Toys,1135.42
+P063,Science Kit,Toys,440.37
+P064,Soft Toy,Toys,603.85

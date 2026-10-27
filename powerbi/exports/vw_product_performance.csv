@@ -1,0 +1,65 @@
+product_id,product_name,category,units_sold,revenue,overall_rank,rank_in_category
+P001,Smartphone,Electronics,1990,61560222.9,1,1
+P022,Water Purifier,Home & Kitchen,1977,18070406.15,2,1
+P018,Air Fryer,Home & Kitchen,4253,17622368.88,3,2
+P029,Leather Wallet,Fashion,3412,16057730.05,4,1
+P004,Smart Watch,Electronics,737,15578929.28,5,2
+P010,Study Desk,Furniture,926,14750608.81,6,1
+P021,Vacuum Cleaner,Home & Kitchen,2251,13823606.3,7,3
+P003,Bluetooth Headphones,Electronics,910,13384121.25,8,3
+P014,Dining Table,Furniture,465,13119141.97,9,2
+P028,Kurta Set,Fashion,3612,12142730.59,10,2
+P027,Running Shoes,Fashion,4902,11720815.99,11,3
+P039,Treadmill Belt,Sports,1465,10206188.28,12,1
+P009,Office Chair,Furniture,1496,10025620.35,13,3
+P015,Wardrobe,Furniture,393,8319716.08,14,4
+P034,Yoga Mat,Sports,3516,8305701.33,15,2
+P020,Dinner Set,Home & Kitchen,2802,7824811.82,16,4
+P036,Badminton Racket,Sports,2166,7400351.86,17,3
+P041,Face Serum,Beauty,7526,7299937.09,18,1
+P059,Board Game,Toys,3597,7152228.62,19,1
+P033,Cricket Bat,Sports,5795,6668755.43,20,4
+P042,Sunscreen SPF50,Beauty,4616,6341828.79,21,2
+P057,Lego Style Blocks,Toys,8186,6318375.87,22,2
+P040,Resistance Bands,Sports,1297,6309714.6,23,5
+P017,Mixer Grinder,Home & Kitchen,7147,6052323.05,24,5
+P006,Wireless Speaker,Electronics,605,6042839.35,25,4
+P002,Laptop,Electronics,1232,5870270.03,26,5
+P013,Queen Bed,Furniture,487,5778331.12,27,5
+P044,Hair Dryer,Beauty,2730,5335301.45,28,3
+P012,Sofa Set,Furniture,564,5039514.43,29,6
+P025,Denim Jeans,Fashion,9917,4380831.12,30,4
+P060,Puzzle 1000pc,Toys,2794,4042646.36,31,3
+P032,Sunglasses,Fashion,2350,4036229.76,32,5
+P019,Pressure Cooker,Home & Kitchen,3210,4033620.52,33,6
+P026,Cotton Shirt,Fashion,6071,3761408.25,34,6
+P008,Gaming Console,Electronics,495,3412209.27,35,6
+P051,Fiction Bestseller,Books,4501,3331432.13,36,1
+P024,Bedsheet Set,Home & Kitchen,1717,3204633.43,37,7
+P031,Winter Jacket,Fashion,2594,3165310.59,38,7
+P037,Football,Sports,1863,3072658.93,39,6
+P049,Data Science Handbook,Books,9976,2692919.37,40,2
+P011,Bookshelf,Furniture,691,2594999.11,41,7
+P030,Handbag,Fashion,2794,2423695.26,42,8
+P043,Perfume,Beauty,3424,2327740.47,43,4
+P062,Art Kit,Toys,2177,2300645.37,44,4
+P005,Tablet,Electronics,698,2278166.87,45,7
+P016,TV Unit,Furniture,362,1818228.73,46,8
+P052,Self-Help Classic,Books,3844,1723011.11,47,3
+P054,UPSC Guide,Books,2745,1585716.13,48,4
+P058,RC Car,Toys,5101,1528418.49,49,5
+P035,Dumbbell Set,Sports,2624,1460212.25,50,7
+P038,Cycling Helmet,Sports,1614,1290579.86,51,8
+P007,Power Bank,Electronics,525,1182274.48,52,8
+P064,Soft Toy,Toys,1884,1059696.87,53,6
+P023,Induction Cooktop,Home & Kitchen,1820,1029047.16,54,8
+P050,Python Crash Course,Books,5922,968143.34,55,5
+P047,Trimmer,Beauty,1913,918113.95,56,5
+P055,Kids Story Set,Books,2360,819096.72,57,6
+P063,Science Kit,Toys,1961,802617.99,58,7
+P046,Moisturizer,Beauty,2175,730485.11,59,6
+P053,SQL Mastery,Books,3219,674965.73,60,7
+P045,Lipstick Set,Beauty,2601,616002.77,61,7
+P061,Doll House,Toys,2631,572431.64,62,8
+P048,Shampoo Combo,Beauty,1776,297017.55,63,8
+P056,Biography Collection,Books,2231,283292.43,64,8
